@@ -6,18 +6,51 @@
 ---
 
 ## 作業二
-- [HW2]([https://github.com/henk3520/_ws/tree/master/hw2](https://github.com/henk3520/_ml/blob/main/hw2/hw2.py)) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+- [HW2](https://github.com/henk3520/_ml/blob/main/hw2/hw2.py) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
 
 ---
 
-## 作業三
-- [HW3](https://github.com/henk3520/_ws/tree/master/hw3) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+## 作業六
+- [HW3](https://github.com/henk3520/_ml/blob/main/hw6/hw6.py) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
 
 ---
 
-## 作業四
-- [HW4](https://github.com/henk3520/_ws/tree/master/hw4) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+## 作業七
+- [HW4](https://github.com/henk3520/_ml/blob/main/hw7/hw7.py) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+  
 ---
 
-## 作業五
-- [HW5](https://github.com/henk3520/_ws/tree/master/hw5)GPT輔助理解
+## 作業八
+- [HW5](https://github.com/henk3520/_ml/blob/main/hw8/hw8.py) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+
+---
+
+## 作業九
+- [HW5](https://github.com/henk3520/_ml/blob/main/hw9/hw9.py) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+
+---
+
+## 作業十
+- [HW5](https://github.com/henk3520/_ml/blob/main/hw10/hw10.py) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+
+---
+
+## 作業十一
+- [HW5](https://github.com/henk3520/_ml/tree/main/hw11) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+
+---
+
+## 作業十三
+- [HW5](https://github.com/henk3520/_ml/tree/main/hw13) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+
+---
+
+## 作業十四
+- [HW5](https://github.com/henk3520/_ml/tree/main/hw14) 觀看上課直播、以老師範例為基礎自己修改及AI輔助改寫
+
+---
+
+## 期中作業
+- [HW5](https://github.com/henk3520/_ml/tree/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD)
+
+---
