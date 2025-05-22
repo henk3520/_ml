@@ -14,7 +14,7 @@
 3.人類玩家透過輸入列號(1~7)選擇落子位置。  
 4.遊戲結束時顯示結果（某玩家勝或平手）並重置棋盤。  
 # 遊戲過程:
-![image]((https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/1.png))  
-![image]((https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/2.png))  
-![image]((https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/3.png))  
-![image]((https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/4.png))  
+![image](https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/1.png)  
+![image](https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/2.png)  
+![image](https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/3.png)  
+![image](https://github.com/henk3520/_ml/blob/main/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD/4.png)  
