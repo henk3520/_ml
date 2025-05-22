@@ -1,3 +1,4 @@
+#此程式透過grok生成產生
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
