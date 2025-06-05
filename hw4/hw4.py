@@ -24,7 +24,7 @@ class MLP(nn.Module):
     def __init__(self):
         super(MLP, self).__init__()
         self.model = nn.Sequential(
-            nn.Linear(10, 3),  # 隱藏層節點數改為 3 (參考你之前的圖片)
+            nn.Linear(10, 3),  # 隱藏層節點數改為 3
             nn.ReLU(),
             nn.Linear(3, 7),
             nn.Sigmoid()
