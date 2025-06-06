@@ -10,6 +10,16 @@
 
 ---
 
+## 作業三
+- [HW3](https://github.com/henk3520/_ml/tree/main/hw3) 觀看上課直播、參考老師範例自己計算的
+
+---
+
+## 作業四
+- [HW4](https://github.com/henk3520/_ml/blob/main/hw4/hw4.py) 觀看上課直播、參考老師範例自己修改及AI輔助改寫
+
+---
+
 ## 作業六
 - [HW6](https://github.com/henk3520/_ml/blob/main/hw6/hw6.py) 觀看上課直播、參考老師範例自己修改及AI輔助改寫
 
