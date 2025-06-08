@@ -20,6 +20,11 @@
 
 ---
 
+## 作業五
+- [HW5](https://github.com/henk3520/_ml/tree/main/hw5) AI輔助，理解後自己寫出來的
+
+---
+
 ## 作業六
 - [HW6](https://github.com/henk3520/_ml/blob/main/hw6/hw6.py) 觀看上課直播、參考老師範例自己修改及AI輔助改寫
 
